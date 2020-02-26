@@ -30,7 +30,7 @@
     <ProjectGuid>{E219B8FC-6499-4628-9CEE-CD6475D1BBC9}</ProjectGuid>
     <RootNamespace>SDLTest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>SDL Base</ProjectName>
+    <ProjectName>SatisFactoryTools</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
